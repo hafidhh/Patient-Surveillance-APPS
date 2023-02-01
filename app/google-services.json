@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "130029927547",
+    "firebase_url": "https://skripsi-14e87.firebaseio.com",
+    "project_id": "skripsi-14e87",
+    "storage_bucket": "skripsi-14e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130029927547:android:7d561d0f22760859c2f6de",
+        "android_client_info": {
+          "package_name": "com.hafidhh.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HHmdI3JjX6xCQ2MKygBlY0gLb8xnjXY"
+        },
+        {
+          "current_key": "AIzaSyB0QUwf_d0oITwDcGDG5ukaFYq4pI7hsMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130029927547:android:4b59f622bbdada0dc2f6de",
+        "android_client_info": {
+          "package_name": "com.example.gpsvaluetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HHmdI3JjX6xCQ2MKygBlY0gLb8xnjXY"
+        },
+        {
+          "current_key": "AIzaSyB0QUwf_d0oITwDcGDG5ukaFYq4pI7hsMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130029927547:android:24dae7f7da214a1dc2f6de",
+        "android_client_info": {
+          "package_name": "com.example.valueeventlistener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HHmdI3JjX6xCQ2MKygBlY0gLb8xnjXY"
+        },
+        {
+          "current_key": "AIzaSyB0QUwf_d0oITwDcGDG5ukaFYq4pI7hsMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130029927547:android:2d19cc9219aa1e4ac2f6de",
+        "android_client_info": {
+          "package_name": "com.hafiztaruligani.karantinacovid19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HHmdI3JjX6xCQ2MKygBlY0gLb8xnjXY"
+        },
+        {
+          "current_key": "AIzaSyB0QUwf_d0oITwDcGDG5ukaFYq4pI7hsMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130029927547-ra8sn7065foghugkojsu7movu17i730m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

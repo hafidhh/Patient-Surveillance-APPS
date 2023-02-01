@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Geofencing</string>
+    <string name="title_activity_maps">Geofencing Apps</string>
+    <string name="title_activity_graph">graph</string>
+    <string name="title_activity_maps_tracing">MapsTracing</string>
+</resources>
