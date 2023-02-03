@@ -7,3 +7,6 @@ Apps get patient position from [Geofencing Device (NodeMCU ESP8266)](https://git
 ![Alt text](media/Tracing_Menu.jpg "Tracing Menu")
 ![Alt text](media/Tracing_List.jpg "Tracing List")
 ![Alt text](media/Tracing_on_Maps.jpg "Tracing on Maps")
+
+## Related Projects
+- [Patient Surveillance ESP8266](https://github.com/hafidhh/Patient-Surveillance-ESP8266)
