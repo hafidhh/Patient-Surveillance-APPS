@@ -3,10 +3,13 @@ Apps to show notificatian when patient leave the geofencing zone (quarantine zon
 Apps get patient position from [Geofencing Device (NodeMCU ESP8266)](https://github.com/hafidhh/Patient-Surveillance-ESP8266)  
 
 ## images
-![Alt text](media/Geofencing.jpg "Geofencing")
-![Alt text](media/Tracing_Menu.jpg "Tracing Menu")
-![Alt text](media/Tracing_List.jpg "Tracing List")
-![Alt text](media/Tracing_on_Maps.jpg "Tracing on Maps")
+### Geofencing (Surveillance)
+<img width="47.5%" alt="Alt text" src="media\Geofencing.jpg" />
+
+### Tracing
+<img width="32%" alt="Alt text" src="media\Tracing_Menu.jpg" />
+<img width="32%" alt="Alt text" src="media\Tracing_List.jpg" />
+<img width="32%" alt="Alt text" src="media\Tracing_on_Maps.jpg" />
 
 ## Related Projects
 - [Patient Surveillance ESP8266](https://github.com/hafidhh/Patient-Surveillance-ESP8266)
